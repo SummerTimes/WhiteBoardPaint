@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WhiteBoardPaint</string>
+    <string name="selectcolour">选择一个颜色</string>
+    <string name="vague">模糊</string>
+    <string name="relief">浮雕</string>
+    <string name="pencil">铅笔</string>
+    <string name="background_olor">背景颜色</string>
+    <string name="notice">注意</string>
+</resources>
